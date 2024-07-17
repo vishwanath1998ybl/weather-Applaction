@@ -58,4 +58,4 @@ To know more about the release process see `.travis.yml` and `.release-it.json` 
 
 ## Contact
 
-- kasra@madadipouya.com
+- vishchakia@gmail.com
